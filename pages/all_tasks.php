@@ -82,7 +82,7 @@
           <div class="sidebar-header d-flex align-items-center">
             <div class="avatar"><img src="img/avatar-1.jpg" alt="" class="img-fluid rounded-circle"></div>
             <div class="title">
-              <h1 class="h4">Himanshu Hunge</h1>
+              <h1 class="h4">Heba Shahid</h1>
               <p>Web Designer</p>
             </div>
           </div>
@@ -97,9 +97,9 @@
 
             <li><a href="#dashvariants" aria-expanded="false" data-toggle="collapse"> <i class="icon-interface-windows"></i>WSD Assignments Fall 2017 </a>
               <ul id="dashvariants" class="collapse list-unstyled">
-                <li><a href="https://web.njit.edu/~hh292/Refactor_ActiveRecords/">Refactor Active</a></li>
-                <li><a href="https://web.njit.edu/~hh292/Project_new/index2.php/">Project 1:CSV upload</a></li>
-                <li><a href="https://web.njit.edu/~hh292/Week04_Assignment/">PHP Basic</a></li>
+                <li><a href="https://web.njit.edu/~hs563/Refactor_ActiveRecords/">Refactor Active</a></li>
+                <li><a href="https://web.njit.edu/~hs563/Project_new/index2.php/">Project 1:CSV upload</a></li>
+                <li><a href="https://web.njit.edu/~hs563/Week04_Assignment/">PHP Basic</a></li>
               </ul>
             </li>
            
