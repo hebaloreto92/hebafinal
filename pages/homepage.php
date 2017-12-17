@@ -38,8 +38,9 @@
                     <h1>WSD Todo-Task Project </h1>
                   </div>
                   <p>An easy way to elicit your task!</p>
-                  <p>Designed By: Himanshu Hunge - hh292</p>
+                  <p>Designed By: Heba Shahid - hs563</p>
                 </div>
+                
               </div>
             </div>
             <!-- Form Panel    -->
@@ -70,7 +71,7 @@
         </div>
       </div>
       <div class="copyrights text-center">
-        <p>Design by <a href="https://remote.com/himanshuhunge" class="external">Himanshu Hunge</a></p>
+        <p>Design by <a href="https://remote.com/heba shahid" class="external">Heba Shahid</a></p>
         <!-- Please do not remove the backlink to us unless you support further theme's development at https://bootstrapious.com/donate. It is part of the license conditions. Thank you for understanding :)-->
       </div>
     </div>
