@@ -86,9 +86,9 @@ session_start();
                     </div>
                     <li><a href="#dashvariants" aria-expanded="false" data-toggle="collapse"> <i class="icon-interface-windows"></i>WSD Assignments Fall 2017 </a>
                         <ul id="dashvariants" class="collapse list-unstyled">
-                            <li><a href="https://web.njit.edu/~hh292/Refactor_ActiveRecords/">Active Records</a></li>
-                            <li><a href="https://web.njit.edu/~hh292/Project_new/index2.php/">Project1:CSV upload</a></li>
-                            <li><a href="https://web.njit.edu/~hh292/Week04_Assignment/">PHP Basic</a></li>
+                            <li><a href="https://web.njit.edu/~hs563/Refactor_ActiveRecords/">Active Records</a></li>
+                            <li><a href="https://web.njit.edu/~hs563/Project_new/index2.php/">Project1:CSV upload</a></li>
+                            <li><a href="https://web.njit.edu/~hs563/Week04_Assignment/">PHP Basic</a></li>
                             <li><a href="#">Page</a></li>
                         </ul>
                     </li>
